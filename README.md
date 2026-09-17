@@ -37,7 +37,7 @@ The fix went through its own pull request (`fix/header-color-conflict`), reviewe
 
 ## What we learned
 
-- - **Kuheli:** Resolving the header-color conflict hands-on made it click why Git flags conflicting changes instead of silently picking one — and how a small compromise (the gradient) can avoid an unnecessary argument over whose change "wins"
+- **Kuheli:** Resolving the header-color conflict hands-on made it click why Git flags conflicting changes instead of silently picking one — and how a small compromise (the gradient) can avoid an unnecessary argument over whose change "wins"
 - **Saurabh:** Working on a shared repo taught me how branch protection and pull requests prevent accidental overwrites — even a small change like a color conflict shows why teams need a clear branching strategy.
 
 ## Running locally
