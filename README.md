@@ -38,7 +38,7 @@ The fix went through its own pull request (`fix/header-color-conflict`), reviewe
 ## What we learned
 
 - **Kuheli:** [one or two lines, in your own words — e.g. what resolving the conflict taught you]
-- **Saurabh:** [his line]
+- **Saurabh:** Working on a shared repo taught me how branch protection and pull requests prevent accidental overwrites — even a small change like a color conflict shows why teams need a clear branching strategy.
 
 ## Running locally
 
